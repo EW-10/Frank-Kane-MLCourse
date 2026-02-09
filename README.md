@@ -4,8 +4,9 @@ This is a repository for my work as part of a Course in Machine Learning by Fran
 The order of these notebooks as part of the course is as follows --
 1. MatPlotLib
 2. Linear Regression
-3. Multiple Regression
-4. Naive Bayes
-5. Decision Tree (and Random Forest)
-6. SVC (SVM -- Support Vector Machines)
-7. SimilarMovies (Recommender systems)
+3. Polynomial Regression
+4. Multiple Regression
+5. Naive Bayes
+6. Decision Tree (and Random Forest)
+7. SVC (SVM -- Support Vector Machines)
+8. SimilarMovies (Recommender systems)
